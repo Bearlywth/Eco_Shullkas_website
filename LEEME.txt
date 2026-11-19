@@ -1,0 +1,9 @@
+ECO-SHULLCAS — sitio web interactivo
+
+Para abrir: descomprime el ZIP y abre index.html desde la carpeta eco_shullcas, manteniendo robot_shullcas.jpg en la misma carpeta.
+
+Las tarjetas del río intentan mostrar fotografías de fuentes periodísticas y educativas. Si una fuente bloquea la imagen, aparece una ilustración local de respaldo en lugar de un espacio vacío. Para ver la fotografía documental original, abre el enlace de la noticia.
+
+Incluye cinco secciones: conoce nuestro río, Eco-Reto, reportes, nuestro robot y Eco-Puntos.
+
+Los reportes y puntos se guardan localmente en el navegador; no se comparten entre visitantes. Para compartir reportes entre todos se necesita publicar el sitio y conectar una base de datos. El minijuego es una simulación educativa, no una medición del rendimiento real del robot.
